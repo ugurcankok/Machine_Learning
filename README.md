@@ -7,28 +7,28 @@ In this repository, you will find:
  
 * ### 1. Regression Algorithms
 
-  * a) Simple Linear Regression
-  * b) Multiple Linear Regression
-  * c) Polynomial Regression
-  * d) Support Vector Regression (SVR)
-  * e) Decision Tree Regression
-  * f) Random Forest Regression
+  * Simple Linear Regression
+  * Multiple Linear Regression
+  * Polynomial Regression
+  * Support Vector Regression (SVR)
+  * Decision Tree Regression
+  * Random Forest Regression
 
 * ### 2. Classification
 
-  * a) Logistic Regression
-  * b) K-Nearest Neighbors (K-NN)
-  * c) Support Vector Machine (SVM)
-  * d) Kernel SVM
-  * e) Naive Bayes
-  * f) Decision Tree Classification
-  * g) Random Forest Classification
+  * Logistic Regression
+  * K-Nearest Neighbors (K-NN)
+  * Support Vector Machine (SVM)
+  * Kernel SVM
+  * Naive Bayes
+  * Decision Tree Classification
+  * Random Forest Classification
 
 * ### 3. Clustering
 
-  * a) K-Means Clustering
-  * b) Hierarchical Clustering
+  * K-Means Clustering
+  * Hierarchical Clustering
   
 * ### 4. Project
   
-  * a) Movie_Recommender
+  * Movie_Recommender
