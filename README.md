@@ -32,4 +32,4 @@ In this repository, you will find:
   
 * ### 4. Project
   
-  * Movie_Recommender
+  * Movie Recommendation
