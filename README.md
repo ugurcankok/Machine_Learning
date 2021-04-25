@@ -10,7 +10,7 @@ In this repository, you will find my works in src folder:
 
   #### Machine Learning ProcessSteps in Data Preprocessing
   
-  * Step 1 : Import the libraries
+  * **Step 1 :** Import the libraries
   * Step 2 : Import the data-set
   * Step 3 : Check out the missing values
   * Step 4 : See the Categorical Values
