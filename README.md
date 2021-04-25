@@ -6,6 +6,8 @@ In this repository, you will find my works in src folder:
 
 * ### [0. Data Preprocessing](https://github.com/ugurcankok/Machine_Learning/tree/master/src/0.%20Data%20Preprocessing)
 
+  ![alt text](https://miro.medium.com/max/1400/1*L6vivCP633xS1XAGXJOXlQ.jpeg)
+
   Data preprocessing is a data mining technique that involves transforming raw data into an understandable format. Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.
 
   #### Machine Learning ProcessSteps in Data Preprocessing
@@ -24,6 +26,8 @@ In this repository, you will find my works in src folder:
   Regression algorithms fall under the family of Supervised Machine Learning algorithms which is a subset of machine learning algorithms. One of the main features of supervised learning algorithms is that they model dependencies and relationships between the target output and input features to predict the value for new data. Regression algorithms predict the output values based on input features from the data fed in the system. That methodology is the algorithm builds a model on the features of training data and using the model to predict the value for new data.
 
   * [Simple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/1.%20Simple%20Linear%20Regression)
+
+    ![alt text](https://miro.medium.com/max/1280/1*g2Oh7bDCCjvgqwXeWT2UlQ.gif)
   
     Simple linear regression is a statistical method that enables users to summarise and study relationships between two continuous (quantitative) variables. Linear regression is a linear model wherein a model that assumes a linear relationship between the input variables (x) and the single output variable (y).
   
