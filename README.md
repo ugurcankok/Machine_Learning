@@ -21,6 +21,8 @@ In this repository, you will find my works in src folder:
  
 * ### [1. Regression Algorithms](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
+  Regression algorithms fall under the family of Supervised Machine Learning algorithms which is a subset of machine learning algorithms. One of the main features of supervised learning algorithms is that they model dependencies and relationships between the target output and input features to predict the value for new data. Regression algorithms predict the output values based on input features from the data fed in the system. That methodology is the algorithm builds a model on the features of training data and using the model to predict the value for new data.
+
   * [Simple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/1.%20Simple%20Linear%20Regression)
   * [Multiple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/2.%20Multiple%20Linear%20Regression)
   * [Polynomial Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/3.%20Polynomial%20Regression)
