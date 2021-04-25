@@ -14,7 +14,7 @@ In this repository, you will find my works in src folder:
   * Step 2 : Import the data-set
   * Step 3 : Check out the missing values
   * Step 4 : See the Categorical Values
-  * Step 5 : Splitting the data-set into Training and Test Set
+  * Step 5 : Splitting the dataset into Training and Test Set
   * Step 6 : Feature Scaling
   
   *You can review **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
