@@ -17,7 +17,7 @@ In this repository, you will find my works in src folder:
   * Step 5 : Splitting the data-set into Training and Test Set
   * Step 6 : Feature Scaling
   
-  *You can review [my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607) on this subject in the Medium.
+  *You can review **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
  
 * ### [1. Regression Algorithms](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
