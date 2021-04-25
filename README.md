@@ -1,4 +1,4 @@
-### Machine Learning Repository
+# Machine Learning Repository
 
 You can look at my work on Machine Learning in this repository.
 
@@ -8,7 +8,7 @@ In this repository, you will find my works in src folder:
 
   Data preprocessing is a data mining technique that involves transforming raw data into an understandable format. Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.
 
-  # Machine Learning ProcessSteps in Data Preprocessing
+  #### Machine Learning ProcessSteps in Data Preprocessing
   
   * Step 1 : Import the libraries
   * Step 2 : Import the data-set
@@ -17,6 +17,7 @@ In this repository, you will find my works in src folder:
   * Step 5 : Splitting the data-set into Training and Test Set
   * Step 6 : Feature Scaling
   
+  *You can review [my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607) on this subject in the Medium.
  
 * ### [1. Regression Algorithms](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
