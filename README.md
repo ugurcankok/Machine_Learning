@@ -11,19 +11,24 @@ In this repository, you will find my works in src folder:
   #### Machine Learning ProcessSteps in Data Preprocessing
   
   * **Step 1 :** Import the libraries
-  * Step 2 : Import the data-set
-  * Step 3 : Check out the missing values
-  * Step 4 : See the Categorical Values
-  * Step 5 : Splitting the dataset into Training and Test Set
-  * Step 6 : Feature Scaling
+  * **Step 2 :** Import the data-set
+  * **Step 3 :** Check out the missing values
+  * **Step 4 :** See the Categorical Values
+  * **Step 5 :** Splitting the dataset into Training and Test Set
+  * **Step 6 :** Feature Scaling
   
-  *You can review **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
+  *You can read **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
  
 * ### [1. Regression Algorithms](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
   Regression algorithms fall under the family of Supervised Machine Learning algorithms which is a subset of machine learning algorithms. One of the main features of supervised learning algorithms is that they model dependencies and relationships between the target output and input features to predict the value for new data. Regression algorithms predict the output values based on input features from the data fed in the system. That methodology is the algorithm builds a model on the features of training data and using the model to predict the value for new data.
 
   * [Simple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/1.%20Simple%20Linear%20Regression)
+  
+    Simple linear regression is a statistical method that enables users to summarise and study relationships between two continuous (quantitative) variables. Linear regression is a linear model wherein a model that assumes a linear relationship between the input variables (x) and the single output variable (y).
+  
+    *You can read **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
+  
   * [Multiple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/2.%20Multiple%20Linear%20Regression)
   * [Polynomial Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/3.%20Polynomial%20Regression)
   * [Support Vector Regression (SVR)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/4.%20Support%20Vector%20Regression%20(SVR))
