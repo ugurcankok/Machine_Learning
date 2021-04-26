@@ -6,7 +6,7 @@ In this repository, you will find my works in ***src*** folder:
 
 * ### [0. Data Preprocessing](https://github.com/ugurcankok/Machine_Learning/tree/master/src/0.%20Data%20Preprocessing)
 
-  ![alt text](https://miro.medium.com/max/1400/1*L6vivCP633xS1XAGXJOXlQ.jpeg)
+  <img src="https://miro.medium.com/max/1400/1*L6vivCP633xS1XAGXJOXlQ.jpeg" width="400" height="200">
 
   Data preprocessing is a data mining technique that involves transforming raw data into an understandable format. Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.
 
@@ -27,7 +27,7 @@ In this repository, you will find my works in ***src*** folder:
 
   * [Simple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/1.%20Simple%20Linear%20Regression)
 
-    ![alt text](https://miro.medium.com/max/1280/1*g2Oh7bDCCjvgqwXeWT2UlQ.gif)
+    <img src="https://miro.medium.com/max/1280/1*g2Oh7bDCCjvgqwXeWT2UlQ.gif" width="400" height="200">
   
     Simple linear regression is a statistical method that enables users to summarise and study relationships between two continuous (quantitative) variables. Linear regression is a linear model wherein a model that assumes a linear relationship between the input variables (x) and the single output variable (y).
   
@@ -35,7 +35,7 @@ In this repository, you will find my works in ***src*** folder:
   
   * [Multiple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/2.%20Multiple%20Linear%20Regression)
 
-    ![alt text](https://miro.medium.com/max/1400/1*PK-JI9NGgPYBnaBesfDbCQ.jpeg | width=100)
+    <img src="https://miro.medium.com/max/1400/1*PK-JI9NGgPYBnaBesfDbCQ.jpeg" width="400" height="200">
 
     Multiple linear regression attempts to model the relationship between two or more explanatory variables and a response variable by fitting a linear equation to observed data. Every value of the independent variable x is associated with a value of the dependent variable y. The population regression line for p explanatory variables x1, x2, ... , xp is defined.
     
