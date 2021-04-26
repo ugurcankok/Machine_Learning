@@ -42,6 +42,13 @@ In this repository, you will find my works in ***src*** folder:
     *You can read **[my article](https://medium.com/@ugurcankok0/multiple-linear-regression-cdba03e3a072)** on this subject in the Medium.*
     
   * [Polynomial Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/3.%20Polynomial%20Regression)
+  
+    <img src="https://miro.medium.com/max/1400/1*_bIM8ea18gJQlniuY3SvDg.png" width="400" height="200">
+    
+    Polynomial Regression is a form of regression analysis in which the relationship between the independent variables and dependent variables are modeled in the nth degree polynomial. Polynomial Regression is a special case of Linear Regression where we fit the polynomial equation on the data with a curvilinear relationship between the dependent and independent variables.
+    
+    *You can read **[my article](https://medium.com/@ugurcankok0/polynomial-regression-83e7575c123c)** on this subject in the Medium.*
+    
   * [Support Vector Regression (SVR)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/4.%20Support%20Vector%20Regression%20(SVR))
   * [Decision Tree Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/5.%20Decision%20Tree%20Regression)
   * [Random Forest Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/6.%20Random%20Forest%20Regression)
