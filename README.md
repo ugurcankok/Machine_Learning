@@ -43,7 +43,7 @@ In this repository, you will find my works in ***src*** folder:
     
   * [Polynomial Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/3.%20Polynomial%20Regression)
   
-    <img src="https://miro.medium.com/max/607/1*oGHfdnOsWOIPlR1lWcAU7g.png" width="400" height="200">
+    <img src="https://4.bp.blogspot.com/-rMmdWLNRRcI/WopS4NgG7lI/AAAAAAAAAIQ/OHIx1620HAwjW3KN_gDCHE4OoLZaYR8iQCEwYBhgL/s1600/polreg_ggplot.png" width="400" height="200">
     
     Polynomial Regression is a form of regression analysis in which the relationship between the independent variables and dependent variables are modeled in the nth degree polynomial. Polynomial Regression is a special case of Linear Regression where we fit the polynomial equation on the data with a curvilinear relationship between the dependent and independent variables.
     
