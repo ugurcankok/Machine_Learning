@@ -19,7 +19,7 @@ In this repository, you will find my works in ***src*** folder:
   * **Step 5 :** Splitting the dataset into Training and Test Set
   * **Step 6 :** Feature Scaling
   
-  *You can read **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
+  *You can read **[my blog post](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
  
 * ### [1. Regression Algorithms](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
@@ -31,7 +31,7 @@ In this repository, you will find my works in ***src*** folder:
   
     Simple linear regression is a statistical method that enables users to summarise and study relationships between two continuous (quantitative) variables. Linear regression is a linear model wherein a model that assumes a linear relationship between the input variables (x) and the single output variable (y).
   
-    *You can read **[my article](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
   
   * [Multiple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/2.%20Multiple%20Linear%20Regression)
 
@@ -39,7 +39,7 @@ In this repository, you will find my works in ***src*** folder:
 
     Multiple linear regression attempts to model the relationship between two or more explanatory variables and a response variable by fitting a linear equation to observed data. Every value of the independent variable x is associated with a value of the dependent variable y. The population regression line for p explanatory variables x1, x2, ... , xp is defined.
     
-    *You can read **[my article](https://medium.com/@ugurcankok0/multiple-linear-regression-cdba03e3a072)** on this subject in the Medium.*
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/multiple-linear-regression-cdba03e3a072)** on this subject in the Medium.*
     
   * [Polynomial Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/3.%20Polynomial%20Regression)
   
@@ -47,7 +47,7 @@ In this repository, you will find my works in ***src*** folder:
     
     Polynomial Regression is a form of regression analysis in which the relationship between the independent variables and dependent variables are modeled in the nth degree polynomial. Polynomial Regression is a special case of Linear Regression where we fit the polynomial equation on the data with a curvilinear relationship between the dependent and independent variables.
     
-    *You can read **[my article](https://medium.com/@ugurcankok0/polynomial-regression-83e7575c123c)** on this subject in the Medium.*
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/polynomial-regression-83e7575c123c)** on this subject in the Medium.*
     
   * [Support Vector Regression (SVR)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/4.%20Support%20Vector%20Regression%20(SVR))
   
@@ -56,7 +56,20 @@ In this repository, you will find my works in ***src*** folder:
     Support Vector regression is a type of Support vector machine that supports linear and non-linear regression. As it seems in the below graph, the mission is to fit as many instances as possible between the lines while limiting the margin violations. The violation concept represents as ε (epsilon). Main idea is always: to minimize error, individualizing the hyperplane which maximizes the margin, keeping in mind that part of the error is tolerated.
     
   * [Decision Tree Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/5.%20Decision%20Tree%20Regression)
+
+    <img src="https://miro.medium.com/max/1204/1*YRMpKm--tjZ1TGNhmBLDOA.png" width="400" height="250">
+    
+    Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches, each representing values for the attribute tested. Leaf node represents a decision on the numerical target. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data. 
+    
+     *You can read **[my blog post](https://medium.com/@ugurcankok0/decision-tree-regression-688f9f44670a)** on this subject in the Medium.*
+     
   * [Random Forest Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/6.%20Random%20Forest%20Regression)
+
+    <img src="https://miro.medium.com/max/1378/1*4nZ4kKsi1z_mihWQWFb_Fg.jpeg" width="400" height="250">
+    
+    Random forest is an ensemble of decision trees. This is to say that many trees, constructed in a certain “random” way form a Random Forest. Each tree is created from a different sample of rows and at each node, a different sample of features is selected for splitting. Each of the trees makes its own individual prediction. These predictions are then averaged to produce a single result.
+    
+     *You can read **[my blog post](https://medium.com/@ugurcankok0/random-forest-regression-72d41bcbe596)** on this subject in the Medium.*
 
 * ### [2. Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification)
 
