@@ -21,7 +21,7 @@ In this repository, you will find my works in ***src*** folder:
   
   *You can read **[my blog post](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
  
-* ### [1. Regression Algorithms](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
+* ### [1. Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
   Regression algorithms fall under the family of Supervised Machine Learning algorithms which is a subset of machine learning algorithms. One of the main features of supervised learning algorithms is that they model dependencies and relationships between the target output and input features to predict the value for new data. Regression algorithms predict the output values based on input features from the data fed in the system. That methodology is the algorithm builds a model on the features of training data and using the model to predict the value for new data.
 
@@ -72,6 +72,8 @@ In this repository, you will find my works in ***src*** folder:
      *You can read **[my blog post](https://medium.com/@ugurcankok0/random-forest-regression-72d41bcbe596)** on this subject in the Medium.*
 
 * ### [2. Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification)
+
+  Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories. The classification predictive modeling is the task of approximating the mapping function from input variables to discrete output variables. The main goal is to identify which class/category the new data will fall into.
 
   * [Logistic Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/1.%20Logistic%20Regression)
   * [K-Nearest Neighbors (K-NN)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/2.%20K-Nearest%20Neighbors%20(K-NN))
