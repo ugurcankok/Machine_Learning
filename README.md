@@ -76,6 +76,13 @@ In this repository, you will find my works in ***src*** folder:
   Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories. The classification predictive modeling is the task of approximating the mapping function from input variables to discrete output variables. The main goal is to identify which class/category the new data will fall into.
 
   * [Logistic Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/1.%20Logistic%20Regression)
+
+    <img src="https://miro.medium.com/max/920/1*jWRFYaUEPaAMZMLqtdtCHQ.png" width="400" height="250">
+    
+    Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
+    
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/logistic-regression-958c0e591c7d)** on this subject in the Medium.*
+
   * [K-Nearest Neighbors (K-NN)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/2.%20K-Nearest%20Neighbors%20(K-NN))
   * [Support Vector Machine (SVM)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/3.%20Support%20Vector%20Machine%20(SVM))
   * [Kernel SVM](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/4.%20Kernel%20SVM)
