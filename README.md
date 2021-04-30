@@ -97,6 +97,8 @@ In this repository, you will find my works in ***src*** folder:
 
     <img src="https://miro.medium.com/max/1400/1*vdX3TJ8u_8F4dSdT5Csz3g.png" width="400" height="250">
     
+    Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other. Naive Bayes model is easy to build and particularly useful for very large data sets. Along with simplicity, Naive Bayes is known to outperform even highly sophisticated classification methods. Bayes theorem provides a way of calculating posterior probability P(c|x) from P(c), P(x) and P(x|c).
+    
     *You can read **[my blog post](https://medium.com/@ugurcankok0/naive-bayes-classification-ed47383d4a99)** on this subject in the Medium.*
     
   * [Decision Tree Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/6.%20Decision%20Tree%20Classification)
