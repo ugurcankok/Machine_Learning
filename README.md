@@ -84,9 +84,21 @@ In this repository, you will find my works in ***src*** folder:
     *You can read **[my blog post](https://medium.com/@ugurcankok0/logistic-regression-958c0e591c7d)** on this subject in the Medium.*
 
   * [K-Nearest Neighbors (K-NN)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/2.%20K-Nearest%20Neighbors%20(K-NN))
+
+    <img src="https://miro.medium.com/max/1182/1*U9dOThJUekSHmdXrsSbr_A.png" width="400" height="250">
+    
+    K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
+    
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/k-nearest-neighbors-65c3f46b891b)** on this subject in the Medium.*
+    
   * [Support Vector Machine (SVM)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/3.%20Support%20Vector%20Machine%20(SVM))
   * [Kernel SVM](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/4.%20Kernel%20SVM)
   * [Naive Bayes](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/5.%20Naive%20Bayes)
+
+    <img src="https://miro.medium.com/max/1400/1*vdX3TJ8u_8F4dSdT5Csz3g.png" width="400" height="250">
+    
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/naive-bayes-classification-ed47383d4a99)** on this subject in the Medium.*
+    
   * [Decision Tree Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/6.%20Decision%20Tree%20Classification)
   * [Random Forest Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/7.%20Random%20Forest%20Classification)
 
