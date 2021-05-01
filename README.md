@@ -92,7 +92,18 @@ In this repository, you will find my works in ***src*** folder:
     *You can read **[my blog post](https://medium.com/@ugurcankok0/k-nearest-neighbors-65c3f46b891b)** on this subject in the Medium.*
     
   * [Support Vector Machine (SVM)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/3.%20Support%20Vector%20Machine%20(SVM))
+
+     <img src="https://www.tutorialspoint.com/scikit_learn/images/marginal_hyperplane.jpg" width="400" height="250">
+     
+     The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points. To separate the two classes of data points, there are many possible hyperplanes that could be chosen. Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence. Hyperplanes are decision boundaries that help classify the data points. Data points falling on either side of the hyperplane can be attributed to different classes.
+
   * [Kernel SVM](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/4.%20Kernel%20SVM)
+
+    <img src="https://miro.medium.com/max/838/1*gXvhD4IomaC9Jb37tzDUVg.png" width="400" height="250">
+    
+    We already know that SVM is a supervised machine learning algorithm used to deal with both classification and regression problems. Compared to the other classification and regression algorithms, the svm approach is completely different. Kernel plays a vital role in classification and is used to analyze some patterns in the given dataset. They are very helpful in solving a no-linear problem by using a linear classifier. Later the svm algorithm uses kernel-trick for transforming the data points and creating an optimal decision boundary. Kernels help us to deal with high dimensional data in a very efficient manner. 
+    
+    
   * [Naive Bayes](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/5.%20Naive%20Bayes)
 
     <img src="https://miro.medium.com/max/1400/1*vdX3TJ8u_8F4dSdT5Csz3g.png" width="400" height="250">
