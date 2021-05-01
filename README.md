@@ -53,7 +53,7 @@ In this repository, you will find my works in ***src*** folder:
   
     <img src="https://i.pinimg.com/736x/3b/c5/3c/3bc53ced72ff0ecf225c948a75bc481a.jpg" width="400" height="250">
     
-    Support Vector regression is a type of Support vector machine that supports linear and non-linear regression. As it seems in the below graph, the mission is to fit as many instances as possible between the lines while limiting the margin violations. The violation concept represents as ε (epsilon). Main idea is always: to minimize error, individualizing the hyperplane which maximizes the margin, keeping in mind that part of the error is tolerated.
+    Support Vector Regression is a type of Support Vector Machine that supports linear and non-linear regression. As it seems in the below graph, the mission is to fit as many instances as possible between the lines while limiting the margin violations. The violation concept represents as ε (epsilon). Main idea is always: to minimize error, individualizing the hyperplane which maximizes the margin, keeping in mind that part of the error is tolerated.
     
   * [Decision Tree Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/5.%20Decision%20Tree%20Regression)
 
