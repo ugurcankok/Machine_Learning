@@ -113,6 +113,13 @@ In this repository, you will find my works in ***src*** folder:
     *You can read **[my blog post](https://medium.com/@ugurcankok0/naive-bayes-classification-ed47383d4a99)** on this subject in the Medium.*
     
   * [Decision Tree Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/6.%20Decision%20Tree%20Classification)
+
+    <img src="https://miro.medium.com/max/1400/1*htzLqpLyTYBx0spAIHGpsw.png" width="400" height="250">
+    
+    Decision tree builds classification or regression models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches. Leaf node represents a classification or decision. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data. 
+    
+    *You can read **[my blog post](https://medium.com/@ugurcankok0/decision-tree-classification-48efda20b04f)** on this subject in the Medium.*
+
   * [Random Forest Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/7.%20Random%20Forest%20Classification)
 
 * ### [3. Clustering](https://github.com/ugurcankok/Machine_Learning/tree/master/src/3.%20Clustering)
