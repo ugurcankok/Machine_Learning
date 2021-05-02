@@ -138,7 +138,15 @@ Clustering is the task of dividing the population or data points into a number o
     Kmeans algorithm is an iterative algorithm that tries to partition the dataset into K pre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the intra-cluster data points as similar as possible while also keeping the clusters as far as possible. It assigns data points to a cluster such that the sum of the squared distance between the data points and the cluster’s centroid is at the minimum. The less variation we have within clusters, the more homogeneous (similar) the data points are within the same cluster.
     
   * [Hierarchical Clustering](https://github.com/ugurcankok/Machine_Learning/tree/master/src/3.%20Clustering/2.%20Hierarchical%20Clustering)
+
+    <img src="https://46gyn61z4i0t1u1pnq2bbk2e-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-28-at-11.48.48-am.png" width="400" height="250">
+    
+    Hierarchical clustering, also known as hierarchical cluster analysis, is an algorithm that groups similar objects into groups called clusters. The endpoint is a set of clusters, where each cluster is distinct from each other cluster, and the objects within each cluster are broadly similar to each other. The main output of Hierarchical Clustering is a dendrogram, which shows the hierarchical relationship between the clusters. The distance between two clusters has been computed based on the length of the straight line drawn from one cluster to another. This is commonly referred to as the Euclidean distance. Many other distance metrics have been developed.
   
 * ### [4. Project](https://github.com/ugurcankok/Machine_Learning/tree/master/src/4.%20Project/Movie%20Recommendation)
+
+  I have projects related to machine learning.
   
   * [Movie Recommendation](https://github.com/ugurcankok/Machine_Learning/tree/master/src/4.%20Project/Movie%20Recommendation)
+
+    <img src="https://editor.analyticsvidhya.com/uploads/88506recommendation%20system.png" width="400" height="250">
