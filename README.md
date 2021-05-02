@@ -150,3 +150,6 @@ Clustering is the task of dividing the population or data points into a number o
   * [Movie Recommendation](https://github.com/ugurcankok/Machine_Learning/tree/master/src/4.%20Project/Movie%20Recommendation)
 
     <img src="https://editor.analyticsvidhya.com/uploads/88506recommendation%20system.png" width="400" height="250">
+    
+    There are two types of recommendation systems. The first of these is the content base filtering approach. In this approach, a movie is suggested according to the actions of the users (like, positive comments, etc.). Another approach is collaborative filtering approach. In this approach, it is a suggestion system based on other users. To give an example, let's say we bought one book. There are many suggestions on many sites that those who bought this book also bought this book or those who viewed this book also looked at these. This is collaborative filtering approach example.
+    
