@@ -128,7 +128,15 @@ In this repository, you will find my works in ***src*** folder:
 
 * ### [3. Clustering](https://github.com/ugurcankok/Machine_Learning/tree/master/src/3.%20Clustering)
 
+  It is basically a type of unsupervised learning method . An unsupervised learning method is a method in which we draw references from datasets consisting of input data without labelled responses. Generally, it is used as a process to find meaningful structure, explanatory underlying processes, generative features, and groupings inherent in a set of examples.
+Clustering is the task of dividing the population or data points into a number of groups such that data points in the same groups are more similar to other data points in the same group and dissimilar to the data points in other groups. It is basically a collection of objects on the basis of similarity and dissimilarity between them.
+
   * [K-Means Clustering](https://github.com/ugurcankok/Machine_Learning/tree/master/src/3.%20Clustering/1.%20K-Means%20Clustering)
+
+    <img src="https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png" width="400" height="250">
+    
+    Kmeans algorithm is an iterative algorithm that tries to partition the dataset into K pre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the intra-cluster data points as similar as possible while also keeping the clusters as far as possible. It assigns data points to a cluster such that the sum of the squared distance between the data points and the cluster’s centroid is at the minimum. The less variation we have within clusters, the more homogeneous (similar) the data points are within the same cluster.
+    
   * [Hierarchical Clustering](https://github.com/ugurcankok/Machine_Learning/tree/master/src/3.%20Clustering/2.%20Hierarchical%20Clustering)
   
 * ### [4. Project](https://github.com/ugurcankok/Machine_Learning/tree/master/src/4.%20Project/Movie%20Recommendation)
