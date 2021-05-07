@@ -1,5 +1,7 @@
 # Machine Learning Repository
 
+Machine learning is a branches of artificial intelligence. achine learning is used in internet search engines, email filters to sort out spam, websites to make personalised recommendations, banking software etc. ML is divided into two main areas: supervised learning and unsupervised learning. 
+
 You can look at my work on Machine Learning in this repository.
 
 In this repository, you will find my works in ***src*** folder:
