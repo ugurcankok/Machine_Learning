@@ -37,8 +37,6 @@ In this repository, you will find my works in ***src*** folder:
 
     Multiple linear regression attempts to model the relationship between two or more explanatory variables and a response variable by fitting a linear equation to observed data. Every value of the independent variable x is associated with a value of the dependent variable y. The population regression line for p explanatory variables x1, x2, ... , xp is defined.
     
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/multiple-linear-regression-cdba03e3a072)** on this subject in the Medium.*
-    
   * [Polynomial Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/3.%20Polynomial%20Regression)
   
     <img src="https://4.bp.blogspot.com/-rMmdWLNRRcI/WopS4NgG7lI/AAAAAAAAAIQ/OHIx1620HAwjW3KN_gDCHE4OoLZaYR8iQCEwYBhgL/s1600/polreg_ggplot.png" width="400" height="200">
@@ -63,8 +61,6 @@ In this repository, you will find my works in ***src*** folder:
     
     Random forest is an ensemble of decision trees. This is to say that many trees, constructed in a certain “random” way form a Random Forest. Each tree is created from a different sample of rows and at each node, a different sample of features is selected for splitting. Each of the trees makes its own individual prediction. These predictions are then averaged to produce a single result.
     
-     *You can read **[my blog post](https://medium.com/@ugurcankok0/random-forest-regression-72d41bcbe596)** on this subject in the Medium.*
-
 * ### [2. Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification)
 
   Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories. The classification predictive modeling is the task of approximating the mapping function from input variables to discrete output variables. The main goal is to identify which class/category the new data will fall into.
@@ -80,8 +76,6 @@ In this repository, you will find my works in ***src*** folder:
     <img src="https://miro.medium.com/max/1182/1*U9dOThJUekSHmdXrsSbr_A.png" width="400" height="250">
     
     K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. K-NN algorithm stores all the available data and classifies a new data point based on the similarity. This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
-    
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/k-nearest-neighbors-65c3f46b891b)** on this subject in the Medium.*
     
   * [Support Vector Machine (SVM)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/3.%20Support%20Vector%20Machine%20(SVM))
 
