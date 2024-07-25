@@ -20,8 +20,6 @@ In this repository, you will find my works in ***src*** folder:
   * **Step 4 :** See the Categorical Values
   * **Step 5 :** Splitting the dataset into Training and Test Set
   * **Step 6 :** Feature Scaling
-  
-  *You can read **[my blog post](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
  
 * ### [1. Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression)
 
@@ -32,8 +30,6 @@ In this repository, you will find my works in ***src*** folder:
     <img src="https://miro.medium.com/max/1280/1*g2Oh7bDCCjvgqwXeWT2UlQ.gif" width="400" height="200">
   
     Simple linear regression is a statistical method that enables users to summarise and study relationships between two continuous (quantitative) variables. Linear regression is a linear model wherein a model that assumes a linear relationship between the input variables (x) and the single output variable (y).
-  
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/simple-linear-regression-82863633b607)** on this subject in the Medium.*
   
   * [Multiple Linear Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/2.%20Multiple%20Linear%20Regression)
 
@@ -49,8 +45,6 @@ In this repository, you will find my works in ***src*** folder:
     
     Polynomial Regression is a form of regression analysis in which the relationship between the independent variables and dependent variables are modeled in the nth degree polynomial. Polynomial Regression is a special case of Linear Regression where we fit the polynomial equation on the data with a curvilinear relationship between the dependent and independent variables.
     
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/polynomial-regression-83e7575c123c)** on this subject in the Medium.*
-    
   * [Support Vector Regression (SVR)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/4.%20Support%20Vector%20Regression%20(SVR))
   
     <img src="https://i.pinimg.com/736x/3b/c5/3c/3bc53ced72ff0ecf225c948a75bc481a.jpg" width="400" height="250">
@@ -62,8 +56,6 @@ In this repository, you will find my works in ***src*** folder:
     <img src="https://miro.medium.com/max/1204/1*YRMpKm--tjZ1TGNhmBLDOA.png" width="400" height="250">
     
     Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches, each representing values for the attribute tested. Leaf node represents a decision on the numerical target. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data. 
-    
-     *You can read **[my blog post](https://medium.com/@ugurcankok0/decision-tree-regression-688f9f44670a)** on this subject in the Medium.*
      
   * [Random Forest Regression](https://github.com/ugurcankok/Machine_Learning/tree/master/src/1.%20Regression/6.%20Random%20Forest%20Regression)
 
@@ -82,8 +74,6 @@ In this repository, you will find my works in ***src*** folder:
     <img src="https://miro.medium.com/max/920/1*jWRFYaUEPaAMZMLqtdtCHQ.png" width="400" height="250">
     
     Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
-    
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/logistic-regression-958c0e591c7d)** on this subject in the Medium.*
 
   * [K-Nearest Neighbors (K-NN)](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/2.%20K-Nearest%20Neighbors%20(K-NN))
 
@@ -112,15 +102,11 @@ In this repository, you will find my works in ***src*** folder:
     
     Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other. Naive Bayes model is easy to build and particularly useful for very large data sets. Along with simplicity, Naive Bayes is known to outperform even highly sophisticated classification methods. Bayes theorem provides a way of calculating posterior probability P(c|x) from P(c), P(x) and P(x|c).
     
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/naive-bayes-classification-ed47383d4a99)** on this subject in the Medium.*
-    
   * [Decision Tree Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/6.%20Decision%20Tree%20Classification)
 
     <img src="https://miro.medium.com/max/1400/1*htzLqpLyTYBx0spAIHGpsw.png" width="400" height="250">
     
     Decision tree builds classification or regression models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches. Leaf node represents a classification or decision. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data. 
-    
-    *You can read **[my blog post](https://medium.com/@ugurcankok0/decision-tree-classification-48efda20b04f)** on this subject in the Medium.*
 
   * [Random Forest Classification](https://github.com/ugurcankok/Machine_Learning/tree/master/src/2.%20Classification/7.%20Random%20Forest%20Classification)
 
